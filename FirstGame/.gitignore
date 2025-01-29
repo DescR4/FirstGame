@@ -1,0 +1,10 @@
+# Visual Studio файлы
+.vs/
+bin/
+obj/
+image/
+*.user
+*.suo
+*.cache
+*.log
+*.csproj.user
