@@ -1,0 +1,11 @@
+D:\project\FirstGame\FirstGame\bin\Debug\FirstGame.exe.config
+D:\project\FirstGame\FirstGame\bin\Debug\FirstGame.exe
+D:\project\FirstGame\FirstGame\bin\Debug\FirstGame.pdb
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.csproj.AssemblyReference.cache
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.Form1.resources
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.Properties.Resources.resources
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.csproj.GenerateResource.cache
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.csproj.CoreCompileInputs.cache
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.exe
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.pdb
+D:\project\FirstGame\FirstGame\obj\Debug\FirstGame.Question.resources

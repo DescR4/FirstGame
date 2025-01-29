@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\FirstGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|D:\\project\\FirstGame\\firstgame\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|solutionrelative:firstgame\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|D:\\project\\FirstGame\\firstgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|solutionrelative:firstgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|d:\\project\\firstgame\\firstgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|solutionrelative:firstgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|D:\\project\\FirstGame\\firstgame\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|solutionrelative:firstgame\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|D:\\project\\FirstGame\\firstgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F228A671-4954-4B75-B66A-F4021FD3A9F5}|FirstGame\\FirstGame.csproj|solutionrelative:firstgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\project\\FirstGame\\FirstGame\\Form1.cs",
+              "RelativeDocumentMoniker": "FirstGame\\Form1.cs",
+              "ToolTip": "D:\\project\\FirstGame\\FirstGame\\Form1.cs",
+              "RelativeToolTip": "FirstGame\\Form1.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAwwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:16:47.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\project\\FirstGame\\FirstGame\\Question.cs",
+              "RelativeDocumentMoniker": "FirstGame\\Question.cs",
+              "ToolTip": "D:\\project\\FirstGame\\FirstGame\\Question.cs",
+              "RelativeToolTip": "FirstGame\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:34:52.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\FirstGame\\FirstGame\\Program.cs",
+              "RelativeDocumentMoniker": "FirstGame\\Program.cs",
+              "ToolTip": "D:\\project\\FirstGame\\FirstGame\\Program.cs",
+              "RelativeToolTip": "FirstGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:46:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\project\\FirstGame\\FirstGame\\Question.cs",
+              "RelativeDocumentMoniker": "FirstGame\\Question.cs",
+              "ToolTip": "D:\\project\\FirstGame\\FirstGame\\Question.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FirstGame\\Question.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:28:52.915Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\project\\FirstGame\\FirstGame\\Form1.cs",
+              "RelativeDocumentMoniker": "FirstGame\\Form1.cs",
+              "ToolTip": "D:\\project\\FirstGame\\FirstGame\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FirstGame\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:13:37.766Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
